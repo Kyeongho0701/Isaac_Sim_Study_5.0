@@ -18,6 +18,13 @@ https://docs.isaacsim.omniverse.nvidia.com/5.0.0/installation/quick-install.html
 # Ubuntu : 24.04
 # CUDA version : 12.9
 # GPU : RTX 5060 Ti
+# 10/01 지훈과 협업 시작.
+# 스터디 형식으로 운영.
+# 단계별 공부 예정.
+# gui 구동 및 환경 세팅.
+# VS code 연동.
+# open source 예제 불러와서 학습 및 task.
+# 여러 로봇으로 Domain Randomize 후 데모 획득 및 학습 , Task 수행 등등.
 ```
 
 
